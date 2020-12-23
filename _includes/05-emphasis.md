@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Moderately skilled **programmer**, *excellent* **communication skills**, **hard working** *and* **dependable**, and **empathetic** towards other people.
